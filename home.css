@@ -1,0 +1,27 @@
+#reset{
+  font-size: 20px;
+}
+#count{
+  font-style: normal;
+}
+.score{
+  font-size: 30px
+}
+h1{
+  font-size: 50px
+}
+h2{
+  font-size: 25px;
+}
+#button1{
+  background-color: transparent;
+  border: 0px solid white;
+  cursor: url(https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1795517/fishing-rod-clipart-md.png);
+}
+.center{
+  display: flex;
+  justify-content: center;
+}
+.background{
+  background-image: url("https://media.istockphoto.com/id/537816604/vector/animals-in-underwater-world.jpg?s=612x612&w=0&k=20&c=0DUkGWKxkgz7teQuAU5Ot4RJmFh8RM6HilKKr0z8Oxw=");
+}
